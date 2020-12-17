@@ -1,2 +1,3 @@
-# FortuneTeller this is the stuff
+# FortuneTeller
+this is the name of it
 cool things
